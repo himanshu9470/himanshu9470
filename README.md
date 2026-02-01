@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Open+Source+Contributor;Competitive+Coder;Gen+AI+Enthusiast;Building+Scalable+Systems;Always+Learning+🚀&font=Fira+Code&center=true&width=650&height=45&color=00F7FF&vCenter=true&pause=1000" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-Open%20Source%20Contributor-blue?style=for-the-badge&logo=github" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Competitive%20Coder-00F7FF?style=for-the-badge" />
+</p>
+
 
 <h3 align="center">
 💻 Turning ideas into scalable products | 🚀 Java • Web • AI
@@ -30,11 +37,18 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements & Activity
+
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshu9470&theme=radical&row=1&column=7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9470&theme=radical" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu9470&theme=react-dark&hide_border=true" />
+</p>
+
+
 
 ---
 
@@ -70,17 +84,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu9470&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9470&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu9470&layout=compact&theme=radical" />
-</p>
+<img src="https://stats-github-readme.vercel.app/api?username=himanshu9470" />
 
 ---
 
