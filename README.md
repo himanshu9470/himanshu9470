@@ -5,6 +5,11 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Competitive+Coder;Gen+AI+Enthusiast" />
+</p>
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-00F7FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-00F7FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Competitive%20Coder-00F7FF?style=for-the-badge" />
@@ -34,21 +39,6 @@
 - 👨‍💻 Projects: **[himanshukr.me](http://himanshukr.me/)**
 - 💬 Ask me about **Java, Spring Boot, HTML, CSS, Python**
 - 📄 Resume: **[View Here](https://drive.google.com/file/d/1mrJXjbrXRIIkN36kRGtVzBHH0eKCF4uz/view?usp=sharing)**
-
----
-
-## 🏆 Achievements & Activity
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu9470&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu9470&theme=react-dark&hide_border=true" />
-</p>
-
-
 
 ---
 
